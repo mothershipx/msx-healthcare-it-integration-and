@@ -1,0 +1,51 @@
+{
+  "id": "855599a7-7949-4297-8a89-da55023add0c",
+  "name": "Healthcare IT Integration and Automation",
+  "slug": "healthcare-it-integration-and",
+  "category": "ai",
+  "score": 92,
+  "description": "The healthcare sector faces critical needs for efficient and compliant IT solutions, particularly in integrating disparate systems (EHR, billing, claims processing), automating manual administrative processes (home care service controlling), and developing specialized, HIPAA-compliant applications. Expertise in complex healthcare IT standards like HL7/FHIR and robust revenue cycle management is in high demand.",
+  "pain_points": [
+    "Integrating disparate healthcare IT systems",
+    "Automating manual administrative processes",
+    "Developing HIPAA-compliant specialized applications",
+    "Adhering to complex HL7/FHIR standards",
+    "Optimizing revenue cycle management"
+  ],
+  "market_size": "$75B+",
+  "tech_stack": [
+    "React.js/Vue.js",
+    "Node.js/Python (FastAPI)",
+    "AWS GovCloud (HIPAA Compliant)",
+    "FHIR SDKs & Validation Engines",
+    "Container Orchestration (Kubernetes)"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "icon": "📱",
+      "value": "734",
+      "change": 84,
+      "metric": "Views",
+      "source": "tiktok"
+    },
+    {
+      "icon": "📈",
+      "value": "99/100",
+      "change": 59,
+      "metric": "Search Interest",
+      "source": "google_trends"
+    },
+    {
+      "icon": "💬",
+      "value": "4+",
+      "change": 54,
+      "metric": "Mentions",
+      "source": "reddit"
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-healthcare-it-integration-and/",
+  "repo_url": "https://github.com/mothershipx/msx-healthcare-it-integration-and",
+  "created_at": "2026-03-26T07:05:52.115Z",
+  "pipeline_version": "1.0.0"
+}
