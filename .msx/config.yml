@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Healthcare IT Integration and Automation
+slug: healthcare-it-integration-and
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: healthcare-it-integration-and.msx.dev
